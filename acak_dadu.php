@@ -27,7 +27,7 @@
     <?php
     $dadu = rand(1, 6);
 
-    echo "<img src='img/$dadu.png' alt='Dadu $dadu'>";
+    echo "<img src='img/img/$dadu.png' alt='Dadu $dadu'>";
 
     ?>
 
